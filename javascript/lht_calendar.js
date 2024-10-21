@@ -5,8 +5,8 @@
    Tutorial 10
    Tutorial Case
 
-   Author: 
-   Date:  
+   Author: Brandy Guzman
+   Date:  10/21/2024
 
    Filename:   lht_calendar.js  
 
